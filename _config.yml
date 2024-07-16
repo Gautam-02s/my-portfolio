@@ -4,7 +4,7 @@ email: gautam0220sharma@gmail.com
 url: https://yourusername.github.io/my-portfolio
 description: "Hey there! Welcome to my personal portfolio website"
 keywords: "Data Scientist, Web Enthusiast"
-skills: "Data Scientist, Data Analytics, Web Development"
+skills: "Data Scientist * Data Analytics * Web Development"
 meta_author: Gautam Sharma
 
 # Google webmaster tools
@@ -49,14 +49,17 @@ social:
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/Gautam-02s
+    - title: LinkedIn
+    url: www.linkedin.com/in/gautam02sharma
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Rajgangpur
+  - line: Odisha,India
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This is my personal portfolio website, containing some of my notable featured works'
 
 # Build settings
 markdown: kramdown
