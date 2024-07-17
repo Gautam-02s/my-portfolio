@@ -14,7 +14,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -32,15 +32,15 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Gautam Sharma
+  location: Rajgangpur, Odisha, India
   social: Around the Web
-  credits: Credits
+  credits: 'This is my personal portfolio website, containing some of my notable featured works'
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: #http://twitter.com/jekyllrb
+    url: https://x.com/i/flow/login?redirect_after_login=%2Fgautam_02_
   - title: facebook
     url:
   - title: stack-overflow
@@ -50,25 +50,21 @@ social:
   - title: github
     url: http://github.com/Gautam-02s
   - title: LinkedIn
-    url: www.linkedin.com/in/gautam02sharma
-
+    url: https://www.linkedin.com/in/gautam02sharma
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Rajgangpur
-  - line: Odisha,India
-
-# Credits content
-credits: 'This is my personal portfolio website, containing some of my notable featured works'
+  - line: Odisha, India
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 
-#for posts
+# Defaults for posts
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
-      permalink: ""
+      permalink: /:categories/:year/:month/:day/:title/
