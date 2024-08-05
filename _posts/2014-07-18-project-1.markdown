@@ -5,10 +5,9 @@ date: 2024-08-05
 img: cabin.png
 alt: image-alt
 project-date: August 2024
-category: Web Development
+category: Data Science
 description: Gautam Sharma here! Thanks for reaching out, will serve you very soon. Thanks :)
 title: Data Analysis and Machine Learning on Climate Dataset
----
 
 ## Project Details
 
@@ -17,3 +16,4 @@ Explore the notebook on GitHub [here](https://nbviewer.org/github/Gautam-02s/Kag
 ## Notebook Preview
 
 <iframe src="https://nbviewer.jupyter.org/github/Gautam-02s/Kaggle-Notebooks/blob/main/climate-change.ipynb" width="100%" height="600px"></iframe>
+---
