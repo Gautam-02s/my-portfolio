@@ -5,7 +5,6 @@ date: 2024-08-05
 img: cabin.png
 alt: image-alt
 project-date: August 2024
-client: Start Bootstrap
 category: Web Development
 description: Gautam Sharma here! Thanks for reaching out, will serve you very soon. Thanks :)
 ---
