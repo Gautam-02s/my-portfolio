@@ -12,7 +12,7 @@ title: Data Analysis and Machine Learning on Climate Dataset
 
 ## Project Details
 
-Explore the notebook on GitHub [here](https://nbviewer.org/github/Gautam-02s/Kaggle-Notebooks/blob/main/climate-change.ipynb).
+[Explore the notebook on GitHub](https://nbviewer.org/github/Gautam-02s/Kaggle-Notebooks/blob/main/climate-change.ipynb)
 
 ## Notebook Preview
 
