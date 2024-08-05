@@ -8,3 +8,15 @@ project-date: August 2024
 category: Web Development
 description: Gautam Sharma here! Thanks for reaching out, will serve you very soon. Thanks :)
 ---
+
+# Project Title
+
+This project is a data analysis and machine learning implementation on a climate dataset.
+
+## Project Details
+
+You can view the notebook on GitHub [here](https://github.com/Gautam-02s/Kaggle-Notebooks/blob/main/climate-change.ipynb).
+
+## Notebook Preview
+
+<iframe src="https://nbviewer.jupyter.org/github/Gautam-02s/Kaggle-Notebooks/blob/main/climate-change.ipynb" width="100%" height="600px"></iframe>
