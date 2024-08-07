@@ -1,10 +1,21 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2024-04-01
 img: cake.png
-alt: image-alt
-project-date: April 2014
-category: Web Development
-description: Gautam Sharma here! Thanks for reaching out, will serve you very soon. Thanks :)
+alt: Project Thumbnail
+project-date: April 2024
+category: Data Science
+description: This project demonstrates an analysis of XYZ using Jupyter Notebook.
 ---
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <h2>Project Title</h2>
+            <p class="lead">This project demonstrates an analysis of XYZ using Jupyter Notebook.</p>
+            <hr>
+            <p><a href="https://nbviewer.org/github/Gautam-02s/Kaggle-Notebooks/blob/main/climate-change.ipynb" target="_blank">View Project</a></p>
+        </div>
+    </div>
+</div>
