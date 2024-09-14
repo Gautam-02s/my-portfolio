@@ -6,13 +6,13 @@ img: cabin.png
 alt: image-alt
 project-date: August 2024
 category: Data Science
-description: Gautam Sharma here! Thanks for reaching out, will serve you very soon. Thanks :)
+description: Gautam Sharma here! Explore the Jupyter Notebook for Data Analysis and Machine Learning on Climate Dataset.
 title: Data Analysis and Machine Learning on Climate Dataset
 ---
 
 ## Project Details
 
-[Explore the notebook on GitHub](https://nbviewer.org/github/Gautam-02s/Kaggle-Notebooks/blob/main/climate-change.ipynb)
+[Explore the notebook on Nbviewer](https://nbviewer.jupyter.org/github/Gautam-02s/Kaggle-Notebooks/blob/main/climate-change.ipynb)
 
 ## Notebook Preview
 
